@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain_google_genai
+langchain_google_vertexai
+langchain_community
+langchain-text-splitters
+langgraph
+faiss-cpu
+groq
+bs4
